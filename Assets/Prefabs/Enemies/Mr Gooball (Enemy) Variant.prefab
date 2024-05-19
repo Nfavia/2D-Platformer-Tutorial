@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6846090430061192276
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 307129062451150191, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_Name
+      value: Mr Gooball (Enemy) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.30393922
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150194, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150195, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.722034
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150195, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150195, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307129062451150197, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
+      propertyPath: moveSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: faea4d565eb398a489c8b0079f89928c, type: 3}
